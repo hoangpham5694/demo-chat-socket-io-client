@@ -1,0 +1,15 @@
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\bin\Debug\TestSocket.exe.config
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\bin\Debug\EngineIoClientDotNet.dll
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\bin\Debug\Newtonsoft.Json.dll
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\bin\Debug\SocketIoClientDotNet.dll
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\bin\Debug\WebSocket4Net.dll
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\bin\Debug\Newtonsoft.Json.xml
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\obj\Debug\TestSocket.csprojAssemblyReference.cache
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\obj\Debug\TestSocket.Form1.resources
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\obj\Debug\TestSocket.Properties.Resources.resources
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.GenerateResource.cache
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CopyComplete
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+D:\Project\CSharp\ToolNham\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
